@@ -14,7 +14,7 @@
 >기술 스택:  
 >Python 3.10.8 / Django 4.1.3 / DRF 3.14.0 / AWS EC2 / AWS CloudFront / AWS S3 / Docker 20.10.12 / Docker Compose 2.11.2 / Gunicorn / Nginx 1.23.2 / Github / Git / Github Actions / PostgreSQL 14.5 /   
 >  
->[프로젝트 상세 설명](https://github.com/2jiyeong0/portfolio/blob/12682e1cd618d3a477e445cf40090df09db2e71f/project/gaggamagga.md) 참고
+>[프로젝트 상세 설명](project/gaggamagga.md) 참고
 
 ---
 
@@ -25,6 +25,6 @@
 >기술 스택:  
 >Python 3.10.7 / Django 4.1.3 / DRF 3.14.0 / SQLite /
 >  
->[프로젝트 상세 설명](https://github.com/2jiyeong0/portfolio/blob/12682e1cd618d3a477e445cf40090df09db2e71f/project/oil_paint_auction.md) 참고
+>[프로젝트 상세 설명](project/oil_paint_auction.md) 참고
 
 ---
