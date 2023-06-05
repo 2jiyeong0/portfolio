@@ -1,6 +1,5 @@
 # :pushpin: 가까? 마까?
 >제주도 맛집 추천 플랫폼  
->https://www.gaggamagga.shop  
 
 </br>
 
@@ -52,7 +51,7 @@
 
 <br>
 
-## 5. API 설계 | [Swagger API Docs](https://www.back-gaggamagga.shop)
+## 5. API 설계 
 <details>
 <summary style="font-size: 15px;"><b>USER API</b></summary>
 <div markdown="1">
